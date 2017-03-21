@@ -1,0 +1,6 @@
+metpy.calc.heat_index
+=====================
+
+.. currentmodule:: metpy.calc
+
+.. autofunction:: heat_index

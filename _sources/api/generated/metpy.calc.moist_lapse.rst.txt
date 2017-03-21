@@ -1,0 +1,6 @@
+metpy.calc.moist_lapse
+======================
+
+.. currentmodule:: metpy.calc
+
+.. autofunction:: moist_lapse

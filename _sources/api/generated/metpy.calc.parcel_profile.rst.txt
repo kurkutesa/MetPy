@@ -1,0 +1,6 @@
+metpy.calc.parcel_profile
+=========================
+
+.. currentmodule:: metpy.calc
+
+.. autofunction:: parcel_profile

@@ -1,0 +1,6 @@
+metpy.calc.coriolis_parameter
+=============================
+
+.. currentmodule:: metpy.calc
+
+.. autofunction:: coriolis_parameter

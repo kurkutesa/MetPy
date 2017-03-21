@@ -1,0 +1,6 @@
+metpy.calc.convergence_vorticity
+================================
+
+.. currentmodule:: metpy.calc
+
+.. autofunction:: convergence_vorticity

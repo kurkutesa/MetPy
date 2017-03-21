@@ -1,0 +1,6 @@
+metpy.calc.tke
+==============
+
+.. currentmodule:: metpy.calc
+
+.. autofunction:: tke

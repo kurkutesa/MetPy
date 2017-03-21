@@ -1,0 +1,6 @@
+metpy.calc.virtual_temperature
+==============================
+
+.. currentmodule:: metpy.calc
+
+.. autofunction:: virtual_temperature

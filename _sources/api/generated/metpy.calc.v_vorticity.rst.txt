@@ -1,0 +1,6 @@
+metpy.calc.v_vorticity
+======================
+
+.. currentmodule:: metpy.calc
+
+.. autofunction:: v_vorticity

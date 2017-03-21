@@ -1,0 +1,6 @@
+metpy.units.atleast_1d
+======================
+
+.. currentmodule:: metpy.units
+
+.. autofunction:: atleast_1d

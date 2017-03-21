@@ -1,0 +1,6 @@
+metpy.calc.vapor_pressure
+=========================
+
+.. currentmodule:: metpy.calc
+
+.. autofunction:: vapor_pressure

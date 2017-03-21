@@ -1,0 +1,27 @@
+metpy.plots.SkewT
+=================
+
+.. currentmodule:: metpy.plots
+
+.. autoclass:: SkewT
+
+   
+   .. automethod:: __init__
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+   
+      ~SkewT.__init__
+      ~SkewT.plot
+      ~SkewT.plot_barbs
+      ~SkewT.plot_dry_adiabats
+      ~SkewT.plot_mixing_lines
+      ~SkewT.plot_moist_adiabats
+   
+   
+
+   
+   
+   

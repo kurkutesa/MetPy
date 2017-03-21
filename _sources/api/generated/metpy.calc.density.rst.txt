@@ -1,0 +1,6 @@
+metpy.calc.density
+==================
+
+.. currentmodule:: metpy.calc
+
+.. autofunction:: density

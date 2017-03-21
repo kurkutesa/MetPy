@@ -1,0 +1,6 @@
+metpy.calc.h_convergence
+========================
+
+.. currentmodule:: metpy.calc
+
+.. autofunction:: h_convergence

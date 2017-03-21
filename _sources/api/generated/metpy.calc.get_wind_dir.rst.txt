@@ -1,0 +1,6 @@
+metpy.calc.get_wind_dir
+=======================
+
+.. currentmodule:: metpy.calc
+
+.. autofunction:: get_wind_dir

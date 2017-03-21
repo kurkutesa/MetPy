@@ -1,0 +1,32 @@
+metpy.plots.StationPlot
+=======================
+
+.. currentmodule:: metpy.plots
+
+.. autoclass:: StationPlot
+
+   
+   .. automethod:: __init__
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+   
+      ~StationPlot.__init__
+      ~StationPlot.plot_barb
+      ~StationPlot.plot_parameter
+      ~StationPlot.plot_symbol
+      ~StationPlot.plot_text
+   
+   
+
+   
+   
+   .. rubric:: Attributes
+
+   .. autosummary::
+   
+      ~StationPlot.location_names
+   
+   

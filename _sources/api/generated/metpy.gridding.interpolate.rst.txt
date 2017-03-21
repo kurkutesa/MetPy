@@ -1,0 +1,6 @@
+metpy.gridding.interpolate
+==========================
+
+.. currentmodule:: metpy.gridding
+
+.. autofunction:: interpolate

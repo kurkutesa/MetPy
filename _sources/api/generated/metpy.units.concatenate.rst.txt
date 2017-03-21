@@ -1,0 +1,6 @@
+metpy.units.concatenate
+=======================
+
+.. currentmodule:: metpy.units
+
+.. autofunction:: concatenate

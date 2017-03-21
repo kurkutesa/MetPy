@@ -1,0 +1,42 @@
+metpy.io.Level3File
+===================
+
+.. currentmodule:: metpy.io
+
+.. autoclass:: Level3File
+
+   
+   .. automethod:: __init__
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+   
+      ~Level3File.__init__
+      ~Level3File.pos_scale
+   
+   
+
+   
+   
+   .. rubric:: Attributes
+
+   .. autosummary::
+   
+      ~Level3File.additional_gsm_fmt
+      ~Level3File.graph_block_fmt
+      ~Level3File.gsm_fmt
+      ~Level3File.header_fmt
+      ~Level3File.ij_to_km
+      ~Level3File.packet_map
+      ~Level3File.prod_desc_fmt
+      ~Level3File.prod_spec_map
+      ~Level3File.standalone_tabular
+      ~Level3File.sym_block_fmt
+      ~Level3File.sym_layer_fmt
+      ~Level3File.tab_block_fmt
+      ~Level3File.tab_header_fmt
+      ~Level3File.wmo_finder
+   
+   

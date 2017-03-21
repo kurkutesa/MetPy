@@ -1,0 +1,6 @@
+metpy.calc.dewpoint
+===================
+
+.. currentmodule:: metpy.calc
+
+.. autofunction:: dewpoint

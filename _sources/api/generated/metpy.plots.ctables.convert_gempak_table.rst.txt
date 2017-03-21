@@ -1,0 +1,6 @@
+metpy.plots.ctables.convert_gempak_table
+========================================
+
+.. currentmodule:: metpy.plots.ctables
+
+.. autofunction:: convert_gempak_table

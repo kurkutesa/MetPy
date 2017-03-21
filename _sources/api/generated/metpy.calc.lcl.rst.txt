@@ -1,0 +1,6 @@
+metpy.calc.lcl
+==============
+
+.. currentmodule:: metpy.calc
+
+.. autofunction:: lcl

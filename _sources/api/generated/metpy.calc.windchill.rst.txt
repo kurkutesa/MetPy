@@ -1,0 +1,6 @@
+metpy.calc.windchill
+====================
+
+.. currentmodule:: metpy.calc
+
+.. autofunction:: windchill

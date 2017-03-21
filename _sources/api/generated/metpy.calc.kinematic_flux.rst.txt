@@ -1,0 +1,6 @@
+metpy.calc.kinematic_flux
+=========================
+
+.. currentmodule:: metpy.calc
+
+.. autofunction:: kinematic_flux

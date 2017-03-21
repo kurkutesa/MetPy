@@ -1,0 +1,6 @@
+metpy.gridding.natural_neighbor
+===============================
+
+.. currentmodule:: metpy.gridding
+
+.. autofunction:: natural_neighbor

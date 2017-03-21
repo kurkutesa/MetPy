@@ -1,0 +1,6 @@
+metpy.calc.lfc
+==============
+
+.. currentmodule:: metpy.calc
+
+.. autofunction:: lfc

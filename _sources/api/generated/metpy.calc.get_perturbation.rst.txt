@@ -1,0 +1,6 @@
+metpy.calc.get_perturbation
+===========================
+
+.. currentmodule:: metpy.calc
+
+.. autofunction:: get_perturbation

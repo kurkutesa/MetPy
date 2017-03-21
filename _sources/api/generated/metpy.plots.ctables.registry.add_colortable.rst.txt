@@ -1,0 +1,6 @@
+metpy.plots.ctables.registry.add_colortable
+===========================================
+
+.. currentmodule:: metpy.plots.ctables
+
+.. automethod:: registry.add_colortable

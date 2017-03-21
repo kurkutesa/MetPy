@@ -1,0 +1,6 @@
+metpy.calc.advection
+====================
+
+.. currentmodule:: metpy.calc
+
+.. autofunction:: advection

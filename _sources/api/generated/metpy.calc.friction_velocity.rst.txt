@@ -1,0 +1,6 @@
+metpy.calc.friction_velocity
+============================
+
+.. currentmodule:: metpy.calc
+
+.. autofunction:: friction_velocity

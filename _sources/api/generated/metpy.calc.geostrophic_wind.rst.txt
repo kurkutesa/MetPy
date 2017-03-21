@@ -1,0 +1,6 @@
+metpy.calc.geostrophic_wind
+===========================
+
+.. currentmodule:: metpy.calc
+
+.. autofunction:: geostrophic_wind

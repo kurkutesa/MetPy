@@ -1,0 +1,6 @@
+metpy.plots.ctables.registry.scan_resource
+==========================================
+
+.. currentmodule:: metpy.plots.ctables
+
+.. automethod:: registry.scan_resource

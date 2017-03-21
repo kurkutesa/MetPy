@@ -1,0 +1,6 @@
+metpy.gridding.inverse_distance
+===============================
+
+.. currentmodule:: metpy.gridding
+
+.. autofunction:: inverse_distance

@@ -1,0 +1,38 @@
+metpy.io.GiniFile
+=================
+
+.. currentmodule:: metpy.io
+
+.. autoclass:: GiniFile
+
+   
+   .. automethod:: __init__
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+   
+      ~GiniFile.__init__
+      ~GiniFile.to_dataset
+   
+   
+
+   
+   
+   .. rubric:: Attributes
+
+   .. autosummary::
+   
+      ~GiniFile.channels
+      ~GiniFile.crafts
+      ~GiniFile.lc_ps_fmt
+      ~GiniFile.mercator_fmt
+      ~GiniFile.missing
+      ~GiniFile.nav_fmt
+      ~GiniFile.prod_desc2_fmt
+      ~GiniFile.prod_desc_fmt
+      ~GiniFile.sectors
+      ~GiniFile.wmo_finder
+   
+   

@@ -1,0 +1,44 @@
+metpy.io.Level2File
+===================
+
+.. currentmodule:: metpy.io
+
+.. autoclass:: Level2File
+
+   
+   .. automethod:: __init__
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+   
+      ~Level2File.__init__
+   
+   
+
+   
+   
+   .. rubric:: Attributes
+
+   .. autosummary::
+   
+      ~Level2File.AR2_BLOCKSIZE
+      ~Level2File.CTM_HEADER_SIZE
+      ~Level2File.MISSING
+      ~Level2File.RANGE_FOLD
+      ~Level2File.data_block_fmt
+      ~Level2File.msg15_code_map
+      ~Level2File.msg1_fmt
+      ~Level2File.msg2_fmt
+      ~Level2File.msg31_data_hdr_fmt
+      ~Level2File.msg31_el_const_fmt
+      ~Level2File.msg31_vol_const_fmt
+      ~Level2File.msg_hdr_fmt
+      ~Level2File.rad_const_fmt_v1
+      ~Level2File.rad_const_fmt_v2
+      ~Level2File.vcp_el_fmt
+      ~Level2File.vcp_fmt
+      ~Level2File.vol_hdr_fmt
+   
+   

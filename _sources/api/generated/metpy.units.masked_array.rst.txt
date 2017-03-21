@@ -1,0 +1,6 @@
+metpy.units.masked_array
+========================
+
+.. currentmodule:: metpy.units
+
+.. autofunction:: masked_array

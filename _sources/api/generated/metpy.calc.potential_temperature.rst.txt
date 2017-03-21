@@ -1,0 +1,6 @@
+metpy.calc.potential_temperature
+================================
+
+.. currentmodule:: metpy.calc
+
+.. autofunction:: potential_temperature

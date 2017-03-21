@@ -1,0 +1,6 @@
+metpy.plots.ctables.registry.get_with_boundaries
+================================================
+
+.. currentmodule:: metpy.plots.ctables
+
+.. automethod:: registry.get_with_boundaries

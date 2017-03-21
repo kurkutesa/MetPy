@@ -1,0 +1,6 @@
+metpy.calc.dry_lapse
+====================
+
+.. currentmodule:: metpy.calc
+
+.. autofunction:: dry_lapse

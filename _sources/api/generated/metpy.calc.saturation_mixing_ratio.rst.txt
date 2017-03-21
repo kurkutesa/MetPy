@@ -1,0 +1,6 @@
+metpy.calc.saturation_mixing_ratio
+==================================
+
+.. currentmodule:: metpy.calc
+
+.. autofunction:: saturation_mixing_ratio
